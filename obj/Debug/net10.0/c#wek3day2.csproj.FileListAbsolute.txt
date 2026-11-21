@@ -1,0 +1,14 @@
+C:\c#wek3day2\bin\Debug\net10.0\c#wek3day2.exe
+C:\c#wek3day2\bin\Debug\net10.0\c#wek3day2.deps.json
+C:\c#wek3day2\bin\Debug\net10.0\c#wek3day2.runtimeconfig.json
+C:\c#wek3day2\bin\Debug\net10.0\c#wek3day2.dll
+C:\c#wek3day2\bin\Debug\net10.0\c#wek3day2.pdb
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.AssemblyInfoInputs.cache
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.AssemblyInfo.cs
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.csproj.CoreCompileInputs.cache
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.dll
+C:\c#wek3day2\obj\Debug\net10.0\refint\c#wek3day2.dll
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.pdb
+C:\c#wek3day2\obj\Debug\net10.0\c#wek3day2.genruntimeconfig.cache
+C:\c#wek3day2\obj\Debug\net10.0\ref\c#wek3day2.dll
